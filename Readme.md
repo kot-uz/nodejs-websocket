@@ -47,10 +47,10 @@ $ npm start
   Check websocket connection throw Postman or Firecamp
   
  ```bash
-$  ws://localhost:5000/
+   ws://localhost:5000/
 ```
   You cand send message in JSON format
   
  ```bash
-$  {"name":"me", "message": "Hello"}
+   {"name":"me", "message": "Hello"}
 ```  
